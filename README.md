@@ -1,2 +1,1 @@
-# lunar-calendar-conversion
-字段捷径-公历农历转换
+字段捷径-公历农历互转
